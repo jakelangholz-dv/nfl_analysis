@@ -1,0 +1,18 @@
+
+*.csv
+
+nfl_00-15/support/load-sample.php
+
+backtrace.0
+
+nfl_00-15/support/2016_NFL_Table_Schema.pdf
+
+nfl_00-15/support/setup.sql
+
+nfl_sample_2015/support/2016_NFL_Table_Schema.pdf
+
+nfl_sample_2015/support/load-sample.php
+
+nfl_sample_2015/support/setup.sql
+
+.ipynb_checkpoints/NFL Game Prediction Engine-checkpoint.ipynb
